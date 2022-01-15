@@ -1,1 +1,2 @@
 # GTIIDocs
+/wiki
