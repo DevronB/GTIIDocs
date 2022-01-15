@@ -1,3 +1,3 @@
 # GTIIDocs
 
-[Link Text](/wiki)
+[GTII Wiki](https://github.com/DevronB/GTIIDocs)
