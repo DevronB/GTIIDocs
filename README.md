@@ -1,2 +1,3 @@
 # GTIIDocs
 
+[Link Text](/wiki)
